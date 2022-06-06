@@ -1,0 +1,15 @@
+.App {
+    font-family: sans-serif;
+    display: flex;
+    margin-left:35px;
+    margin-right:35px;
+    border:2px solid red;
+    
+  
+  }
+  .App>div{
+    border:2px solid green;
+    margin:30px;
+  
+  }
+  
