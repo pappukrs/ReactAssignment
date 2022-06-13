@@ -27,6 +27,7 @@ const Grocerry=()=>{
     
     return(
       <>
+       <h1 style={{textAlign: 'center',backgroundColor:"teal",}}> ADD GROCERRY ITEM</h1>
       <GroceryInput handleAdd={handleAdd}/>
       <GroceryList data={data} handleDelete={handleDelete}/>
       </>
