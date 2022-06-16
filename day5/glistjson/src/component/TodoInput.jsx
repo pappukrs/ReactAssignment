@@ -9,6 +9,7 @@ const TodoInput =({handleAdd})=>{
        type="text"
        placeholder="Add TODO "
        value={name}
+       required
        onChange={(e)=>{setName(e.target.value)}}
        
       />

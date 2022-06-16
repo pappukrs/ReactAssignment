@@ -12,6 +12,10 @@ import React from "react";
      
     
      }
+
+     <br/>
+     <br/>
+     <br/>
       <button onClick={()=>handlePage(-1)} disabled={page===1}> previous </button>
       <button onClick={()=>handlePage(1)}>Next</button>
       </>
