@@ -1,3 +1,28 @@
 {
-    "grocery":[]
+  "grocery": [
+    {
+      "name": "learn react",
+      "id": "9555c397-7e95-4706-be36-486dc58993a8"
+    },
+    {
+      "name": "dsa revision",
+      "id": "0a328d3f-a46a-4527-9653-8fe9e5e26dc3"
+    },
+    {
+      "name": "warm up",
+      "id": "543a619c-ee3b-4586-aa82-0f3f1ae57ed8"
+    },
+    {
+      "name": "sugar 3 kg",
+      "id": "be8d0826-6f85-450c-9903-7c7a45366f7c"
+    },
+    {
+      "name": "flour 4 kg",
+      "id": "aed2566d-22a7-44e8-9e33-308778b916c6"
+    },
+    {
+      "name": "desserts 3 kg",
+      "id": "e45e4fb1-77e9-45af-84de-de19a2142202"
+    }
+  ]
 }
