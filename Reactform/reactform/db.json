@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "name": "Pappu Kumar",
+      "age": "16",
+      "address": "wj",
+      "salary": "169K",
+      "marital": "false",
+      "id": 1
+    },
+    {
+      "name": "Pappu Kumar",
+      "age": "16",
+      "address": "wj",
+      "salary": "169K",
+      "marital": "false",
+      "id": 2
+    },
+    {
+      "name": "adarsh",
+      "age": "20",
+      "address": "khilwat",
+      "salary": "35k",
+      "marital": false,
+      "id": 3
+    },
+    {
+      "name": "Aniket",
+      "age": "15",
+      "address": "khilwat",
+      "department": "Mechanical",
+      "salary": "20k",
+      "marital": "false",
+      "id": 4
+    },
+    {
+      "name": "Rahul",
+      "age": "20",
+      "address": "Rajason",
+      "department": "Mechanical",
+      "salary": "16k",
+      "marital": "false",
+      "id": 5
+    },
+    {
+      "name": "Shubham jain",
+      "age": "21",
+      "address": "Bhilai",
+      "department": "Mechanical",
+      "salary": "35k",
+      "marital": "false",
+      "id": 6
+    },
+    {
+      "name": "Pappu Kumar",
+      "age": "16",
+      "address": "Gomo",
+      "department": "Mechanical",
+      "salary": "36k",
+      "marital": "false",
+      "id": 7
+    }
+  ]
+}
